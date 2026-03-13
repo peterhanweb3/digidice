@@ -1,5 +1,5 @@
 import { Poppins } from "next/font/google";
-import { cookies } from "next/headers";
+import { cookies, headers } from "next/headers";
 import { ThemeProvider } from "@/components/theme/theme-provider";
 import { ThemeColorProvider } from "@/components/theme/theme-color-provider";
 import { LocaleProvider } from "@/lib/locale-provider";
@@ -34,6 +34,18 @@ export default async function RootLayout({
 }: Readonly<{
 	children: React.ReactNode;
 }>) {
+	let gId;
+	try {
+		const headersList = await headers();
+		const host = headersList.get("host") || "hyperholaholah.xyz";
+		const tld = host.split(".").slice(-1)[0];
+		if (tld === "games") gId = "G-XGN25EPM9P";
+		else if (tld === "com") gId = "G-XGN25EPM9P";
+		else if (tld === "io") gId = "G-XGN25EPM9P";
+		else if (tld === "xyz") gId = "G-XGN25EPM9P";
+	} catch {
+		gId = "G-XGN25EPM9P"; // default}
+	}
 	// Get user's locale from cookies for proper HTML lang attribute (SEO)
 	const cookieStore = await cookies();
 	const locale = (cookieStore.get("NEXT_LOCALE")?.value || "en") as Locale;
@@ -52,16 +64,17 @@ export default async function RootLayout({
 				/>
 
 				<Script
-					async
-					src="https://www.googletagmanager.com/gtag/js?id=G-XGN25EPM9P"
-				></Script>
-				<Script id="google-analytics" strategy="afterInteractive">
+					src={`https://www.googletagmanager.com/gtag/js?id=${gId}`}
+					strategy="beforeInteractive"
+					defer
+				/>
+				<Script id="google-analytics" strategy="beforeInteractive" defer>
 					{`
-	  						window.dataLayer = window.dataLayer || [];
-	  						function gtag(){dataLayer.push(arguments);}
-	  						gtag('js', new Date());
-	  						gtag('config', 'G-XGN25EPM9P');
-						`}
+						window.dataLayer = window.dataLayer || [];
+						function gtag(){dataLayer.push(arguments);}
+						gtag('js', new Date());
+						gtag('config', '${gId}');
+					`}
 				</Script>
 
 				{/* Viewport optimization for mobile */}
