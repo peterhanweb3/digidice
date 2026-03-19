@@ -1157,8 +1157,8 @@
 	},
 	"hero": {
 		"guest": {
-			"title": "Machen Sie mit",
-			"subtitle": "Registrieren Sie sich jetzt und erhalten Sie einen exklusiven Willkommensbonus!",
+			"title": "Spiele sofort im Krypto-Casino",
+			"subtitle": "Verbinde deine Wallet und starte in Sekunden mit Live-Spielen.\nSofortige Auszahlungen. Nachweislich fair.",
 			"cta": "Jetzt registrieren"
 		},
 		"welcome": {
@@ -1168,23 +1168,23 @@
 			"cta": "Einzahlen & Erhalten"
 		},
 		"jackpot": {
-			"title1": "Mega-Jackpot",
-			"title2": "$1.000.000",
-			"subtitle": "Jetzt spielen & Groß gewinnen",
+			"title1": "Mega Jackpot",
+			"title2": "$1,000,000",
+			"subtitle": "Jetzt spielen & groß gewinnen",
 			"cta": "Jetzt spielen"
 		},
 		"cards": {
 			"casino": {
 				"title": "Casino",
 				"badge": "590+ SPIELE",
-				"desc": "Genießen Sie {siteName}-Originale und andere Casinospiele von Top-Anbietern.",
+				"desc": "Genießen Sie {siteName} Originals und andere Casinospiele von Top-Anbietern.",
 				"link": "Zum Casino"
 			},
 			"slots": {
-				"title": "Spielautomaten",
+				"title": "Slots",
 				"badge": "5292 SPIELE",
-				"desc": "Drehen Sie die Walzen und knacken Sie riesige Jackpots mit unserer Premium-Slot-Sammlung.",
-				"link": "Zu den Spielautomaten"
+				"desc": "Drehen Sie die Walzen und knacken Sie massive Jackpots mit unserer Premium-Slot-Kollektion.",
+				"link": "Zu den Slots"
 			},
 			"sports": {
 				"title": "Sport",
@@ -1195,21 +1195,21 @@
 			"crypto": {
 				"title": "Krypto & Verdienen",
 				"badge": "60% APR",
-				"desc": "Staken, handeln und verdienen Sie mit Kryptowährungen zu attraktiven Raten.",
+				"desc": "Staken, handeln und verdienen Sie mit Kryptowährung zu attraktiven Raten.",
 				"link": "Zu Krypto"
 			}
 		},
 		"layout3": {
 			"headerTitle": "Spiel im Rampenlicht",
 			"headerSubtitle": "Entdecken Sie erstaunliche Spiele und erkunden Sie neue Abenteuer in unserer kuratierten Sammlung",
-			"slider1Title": "Empfohlene Spiele",
-			"slider1Badge": "Mitarbeitertipps",
-			"slider2Title": "Mehr zu entdecken",
+			"slider1Title": "Vorgestellte Spiele",
+			"slider1Badge": "Mitarbeiter-Tipps",
+			"slider2Title": "Mehr zu erkunden",
 			"slider2Badge": "Trending",
-			"featuredGameLabel": "Empfohlenes Spiel"
+			"featuredGameLabel": "Vorgestelltes Spiel"
 		},
-		"ctaExploreGames": "Spiele entdecken",
-		"ctaJoinAffiliate": "Affiliate beitreten"
+		"ctaExploreGames": "Wallet verbinden",
+		"ctaJoinAffiliate": "Jetzt spielen"
 	},
 	"betting": {
 		"live": {

@@ -1157,15 +1157,15 @@
 	},
 	"hero": {
 		"guest": {
-			"title": "Junte-se à Ação",
-			"subtitle": "Cadastre-se agora e ganhe um bônus de boas-vindas exclusivo!",
+			"title": "Jogue no cassino cripto instantaneamente",
+			"subtitle": "Conecte sua carteira e comece a jogar em segundos.\nSaques instantâneos. Comprovadamente justo!",
 			"cta": "Registrar Agora"
 		},
 		"welcome": {
 			"title1": "Bônus de Boas-vindas",
 			"title2": "Até 590%",
-			"subtitle": "+ 225 Giros Grátis",
-			"cta": "Depositar & Ganhar"
+			"subtitle": "+ 225 Rodadas Grátis",
+			"cta": "Depositar & Receber"
 		},
 		"jackpot": {
 			"title1": "Mega Jackpot",
@@ -1176,7 +1176,7 @@
 		"cards": {
 			"casino": {
 				"title": "Cassino",
-				"badge": "MAIS DE 590 JOGOS",
+				"badge": "590+ JOGOS",
 				"desc": "Aproveite {siteName} Originals e outros jogos de cassino dos melhores provedores.",
 				"link": "Ir para o Cassino"
 			},
@@ -1189,27 +1189,27 @@
 			"sports": {
 				"title": "Esportes",
 				"badge": "3 JOGOS",
-				"desc": "Aposte em seus times favoritos e eventos esportivos com odds competitivas.",
+				"desc": "Aposte em seus times e eventos esportivos favoritos com odds competitivas.",
 				"link": "Ir para Esportes"
 			},
 			"crypto": {
 				"title": "Cripto & Ganhar",
 				"badge": "60% APR",
-				"desc": "Faça staking, negocie e ganhe com criptomoedas a taxas atraentes.",
+				"desc": "Faça stake, negocie e ganhe com criptomoedas a taxas atraentes.",
 				"link": "Ir para Cripto"
 			}
 		},
 		"layout3": {
 			"headerTitle": "Destaque de Jogos",
-			"headerSubtitle": "Descubra jogos incríveis e explore novas aventuras em nossa coleção curada",
+			"headerSubtitle": "Descubra jogos incríveis e explore novas aventuras em nossa coleção selecionada",
 			"slider1Title": "Jogos em Destaque",
 			"slider1Badge": "Escolhas da Equipe",
 			"slider2Title": "Mais para Explorar",
 			"slider2Badge": "Em Alta",
 			"featuredGameLabel": "Jogo em Destaque"
 		},
-		"ctaExploreGames": "Explorar Jogos",
-		"ctaJoinAffiliate": "Junte-se ao Afiliado"
+		"ctaExploreGames": "Conectar carteira",
+		"ctaJoinAffiliate": "Jogar agora"
 	},
 	"betting": {
 		"live": {

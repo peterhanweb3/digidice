@@ -1157,59 +1157,59 @@
 	},
 	"hero": {
 		"guest": {
-			"title": "Gå med i händelserna",
-			"subtitle": "Registrera dig nu och få en exklusiv välkomstbonus!",
-			"cta": "Registrera dig nu"
+			"title": "เล่นคาสิโนคริปโตได้ทันที",
+			"subtitle": "เชื่อมต่อกระเป๋าของคุณและเริ่มเล่นภายในไม่กี่วินาที\nถอนเงินทันที ยุติธรรมตรวจสอบได้!",
+			"cta": "ลงทะเบียนเลย"
 		},
 		"welcome": {
-			"title1": "Välkomstbonus",
-			"title2": "Upp till 590%",
-			"subtitle": "+ 225 gratissnurr",
-			"cta": "Sätt in & Få"
+			"title1": "โบนัสต้อนรับ",
+			"title2": "สูงสุด 590%",
+			"subtitle": "+ 225 ฟรีสปิน",
+			"cta": "ฝากเงิน & รับเลย"
 		},
 		"jackpot": {
-			"title1": "Megajackpott",
-			"title2": "$1 000 000",
-			"subtitle": "Spela nu & Vinn stort",
-			"cta": "Spela nu"
+			"title1": "เมกะแจ็คพอต",
+			"title2": "$1,000,000",
+			"subtitle": "เล่นเลย & ชนะรางวัลใหญ่",
+			"cta": "เล่นเลย"
 		},
 		"cards": {
 			"casino": {
-				"title": "Casino",
-				"badge": "590+ SPEL",
-				"desc": "Njut av {siteName} Originals och andra casinospel från toppleverantörer.",
-				"link": "Gå till Casino"
+				"title": "คาสิโน",
+				"badge": "590+ เกม",
+				"desc": "เพลิดเพลินกับ {siteName} Originals และเกมคาสิโนอื่นๆ จากผู้ให้บริการชั้นนำ",
+				"link": "ไปที่คาสิโน"
 			},
 			"slots": {
-				"title": "Slots",
-				"badge": "5292 SPEL",
-				"desc": "Snurra hjulen och träffa massiva jackpottar med vår premium slot-samling.",
-				"link": "Gå till Slots"
+				"title": "สล็อต",
+				"badge": "5292 เกม",
+				"desc": "หมุนวงล้อและรับแจ็คพอตมหาศาลด้วยคอลเลกชันสล็อตระดับพรีเมียมของเรา",
+				"link": "ไปที่สล็อต"
 			},
 			"sports": {
-				"title": "Sport",
-				"badge": "3 SPEL",
-				"desc": "Satsa på dina favoritlag och sportevenemang med konkurrenskraftiga odds.",
-				"link": "Gå till Sport"
+				"title": "กีฬา",
+				"badge": "3 เกม",
+				"desc": "เดิมพันทีมโปรดและกิจกรรมกีฬาของคุณด้วยอัตราต่อรองที่แข่งขันได้",
+				"link": "ไปที่กีฬา"
 			},
 			"crypto": {
-				"title": "Krypto & Tjäna",
+				"title": "คริปโต & สร้างรายได้",
 				"badge": "60% APR",
-				"desc": "Staka, handla och tjäna med kryptovaluta till attraktiva räntor.",
-				"link": "Gå till Krypto"
+				"desc": "Stake, ซื้อขาย, และสร้างรายได้ด้วยคริปโตเคอเรนซีในอัตราที่น่าสนใจ",
+				"link": "ไปที่คริปโต"
 			}
 		},
 		"layout3": {
-			"headerTitle": "Spel i rampljuset",
-			"headerSubtitle": "Upptäck fantastiska spel och utforska nya äventyr i vår utvalda samling",
-			"slider1Title": "Utvalda spel",
-			"slider1Badge": "Personalens val",
-			"slider2Title": "Mer att utforska",
-			"slider2Badge": "Trendar",
-			"featuredGameLabel": "Utvalt spel"
+			"headerTitle": "เกมแนะนำ",
+			"headerSubtitle": "ค้นพบเกมที่น่าทึ่งและสำรวจการผจญภัยใหม่ในคอลเลกชันที่คัดสรรมาของเรา",
+			"slider1Title": "เกมเด่น",
+			"slider1Badge": "ทีมงานเลือก",
+			"slider2Title": "เพิ่มเติมให้สำรวจ",
+			"slider2Badge": "กำลังมาแรง",
+			"featuredGameLabel": "เกมแนะนำ"
 		},
-		"ctaExploreGames": "Utforska spel",
-		"ctaJoinAffiliate": "Bli Affiliate"
+		"ctaExploreGames": "เชื่อมต่อกระเป๋า",
+		"ctaJoinAffiliate": "เล่นเลย"
 	},
 	"betting": {
 		"live": {

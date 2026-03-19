@@ -1157,8 +1157,8 @@
 	},
 	"hero": {
 		"guest": {
-			"title": "Dołącz do akcji",
-			"subtitle": "Zarejestruj się teraz i otrzymaj ekskluzywny bonus powitalny!",
+			"title": "Graj w kasynie krypto natychmiast",
+			"subtitle": "Połącz portfel i zacznij grać w kilka sekund.\nNatychmiastowe wypłaty. Uczciwość potwierdzona!",
 			"cta": "Zarejestruj się teraz"
 		},
 		"welcome": {
@@ -1169,7 +1169,7 @@
 		},
 		"jackpot": {
 			"title1": "Mega Jackpot",
-			"title2": "1 000 000 $",
+			"title2": "$1,000,000",
 			"subtitle": "Graj teraz i wygrywaj",
 			"cta": "Graj teraz"
 		},
@@ -1183,33 +1183,33 @@
 			"slots": {
 				"title": "Sloty",
 				"badge": "5292 GIER",
-				"desc": "Kręć bębnami i trafiaj ogromne jackpoty dzięki naszej kolekcji slotów premium.",
+				"desc": "Zakręć bębnami i traf ogromne jackpoty dzięki naszej kolekcji slotów premium.",
 				"link": "Idź do Slotów"
 			},
 			"sports": {
 				"title": "Sport",
 				"badge": "3 GRY",
-				"desc": "Obstawiaj ulubione drużyny i wydarzenia sportowe z konkurencyjnymi kursami.",
+				"desc": "Obstawiaj swoje ulubione drużyny i wydarzenia sportowe z konkurencyjnymi kursami.",
 				"link": "Idź do Sportu"
 			},
 			"crypto": {
-				"title": "Krypto i Zarabiaj",
+				"title": "Krypto i Zarabianie",
 				"badge": "60% APR",
-				"desc": "Stakuj, handluj i zarabiaj kryptowaluty po atrakcyjnych stawkach.",
+				"desc": "Stakuj, handluj i zarabiaj na kryptowalutach po atrakcyjnych stawkach.",
 				"link": "Idź do Krypto"
 			}
 		},
 		"layout3": {
-			"headerTitle": "Wyróżnione gry",
-			"headerSubtitle": "Odkryj niesamowite gry i nowe przygody w naszej wybranej kolekcji",
+			"headerTitle": "W centrum uwagi",
+			"headerSubtitle": "Odkryj niesamowite gry i poznaj nowe przygody w naszej wybranej kolekcji",
 			"slider1Title": "Polecane gry",
-			"slider1Badge": "Wybór zespołu",
+			"slider1Badge": "Wybór redakcji",
 			"slider2Title": "Więcej do odkrycia",
 			"slider2Badge": "Na czasie",
 			"featuredGameLabel": "Wyróżniona gra"
 		},
-		"ctaExploreGames": "Odkryj gry",
-		"ctaJoinAffiliate": "Dołącz do programu partnerskiego"
+		"ctaExploreGames": "Połącz portfel",
+		"ctaJoinAffiliate": "Graj teraz"
 	},
 	"betting": {
 		"live": {

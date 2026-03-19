@@ -1157,20 +1157,20 @@
 	},
 	"hero": {
 		"guest": {
-			"title": "Aksiyona Katıl",
-			"subtitle": "Şimdi kaydolun ve özel bir hoş geldin bonusu kazanın!",
+			"title": "Hemen kripto kumarhanede oyna",
+			"subtitle": "Cüzdanını bağla ve saniyeler içinde oynamaya başla.\nAnında çekim. Kanıtlanabilir adil.!",
 			"cta": "Şimdi Kaydol"
 		},
 		"welcome": {
 			"title1": "Hoş Geldin Bonusu",
 			"title2": "%590'a Kadar",
 			"subtitle": "+ 225 Ücretsiz Döndürme",
-			"cta": "Yatır ve Al"
+			"cta": "Yatır & Al"
 		},
 		"jackpot": {
 			"title1": "Mega Jackpot",
 			"title2": "$1,000,000",
-			"subtitle": "Şimdi Oyna ve Büyük Kazan",
+			"subtitle": "Şimdi Oyna & Büyük Kazan",
 			"cta": "Şimdi Oyna"
 		},
 		"cards": {
@@ -1183,33 +1183,33 @@
 			"slots": {
 				"title": "Slotlar",
 				"badge": "5292 OYUN",
-				"desc": "Premium slot koleksiyonumuzla makaraları çevirin ve devasa jackpotları vurun.",
+				"desc": "Makaraları döndürün ve premium slot koleksiyonumuzla devasa jackpotları yakalayın.",
 				"link": "Slotlara Git"
 			},
 			"sports": {
 				"title": "Spor",
 				"badge": "3 OYUN",
-				"desc": "Rekabetçi oranlarla favori takımlarınıza ve spor etkinliklerine bahis yapın.",
+				"desc": "Favori takımlarınıza ve spor etkinliklerine rekabetçi oranlarla bahis yapın.",
 				"link": "Spora Git"
 			},
 			"crypto": {
 				"title": "Kripto & Kazan",
 				"badge": "%60 APR",
-				"desc": "Cazip oranlarla kripto para stake edin, ticaret yapın ve kazanın.",
+				"desc": "Kripto para birimi ile cazip oranlarda stake yapın, ticaret yapın ve kazanın.",
 				"link": "Kriptoya Git"
 			}
 		},
 		"layout3": {
-			"headerTitle": "Oyun Vitrini",
-			"headerSubtitle": "Özel koleksiyonumuzda harika oyunları keşfedin ve yeni maceraları araştırın",
+			"headerTitle": "Oyun Sahne Işığı",
+			"headerSubtitle": "Özenle seçilmiş koleksiyonumuzda harika oyunları keşfedin ve yeni maceralara atılın",
 			"slider1Title": "Öne Çıkan Oyunlar",
-			"slider1Badge": "Editörün Seçimi",
-			"slider2Title": "Daha Fazla Keşfet",
-			"slider2Badge": "Trend Olanlar",
+			"slider1Badge": "Personelin Seçtikleri",
+			"slider2Title": "Daha Fazlasını Keşfet",
+			"slider2Badge": "Trend Olan",
 			"featuredGameLabel": "Öne Çıkan Oyun"
 		},
-		"ctaExploreGames": "Oyunları Keşfet",
-		"ctaJoinAffiliate": "Ortak Ol"
+		"ctaExploreGames": "Cüzdan bağla",
+		"ctaJoinAffiliate": "Şimdi oyna"
 	},
 	"betting": {
 		"live": {

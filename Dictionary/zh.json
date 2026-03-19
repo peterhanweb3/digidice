@@ -1157,59 +1157,59 @@
 	},
 	"hero": {
 		"guest": {
-			"title": "Tham gia hành động",
-			"subtitle": "Đăng ký ngay và nhận thưởng chào mừng độc quyền!",
-			"cta": "Đăng ký ngay"
+			"title": "立即体验加密赌场",
+			"subtitle": "连接您的钱包，几秒内开始游戏。\n即时提现，公平可验证。",
+			"cta": "立即注册"
 		},
 		"welcome": {
-			"title1": "Thưởng chào mừng",
-			"title2": "Lên đến 590%",
-			"subtitle": "+ 225 Vòng quay miễn phí",
-			"cta": "Nạp tiền & Nhận"
+			"title1": "欢迎红利",
+			"title2": "高达 590%",
+			"subtitle": "+ 225 次免费旋转",
+			"cta": "充值并领取"
 		},
 		"jackpot": {
-			"title1": "Mega Jackpot",
+			"title1": "超级大奖",
 			"title2": "$1,000,000",
-			"subtitle": "Chơi ngay & Thắng lớn",
-			"cta": "Chơi ngay"
+			"subtitle": "立即玩 & 赢大奖",
+			"cta": "立即玩"
 		},
 		"cards": {
 			"casino": {
-				"title": "Casino",
-				"badge": "590+ TRÒ CHƠI",
-				"desc": "Thưởng thức {siteName} Originals và các trò chơi casino khác từ các nhà cung cấp hàng đầu.",
-				"link": "Đến Casino"
+				"title": "娱乐场",
+				"badge": "590+ 游戏",
+				"desc": "享受 {siteName} 原创和其他顶级提供商的娱乐场游戏。",
+				"link": "前往娱乐场"
 			},
 			"slots": {
-				"title": "Nổ hũ",
-				"badge": "5292 TRÒ CHƠI",
-				"desc": "Quay guồng và trúng giải độc đắc lớn với bộ sưu tập slot cao cấp của chúng tôi.",
-				"link": "Đến Nổ hũ"
+				"title": "老虎机",
+				"badge": "5292 游戏",
+				"desc": "通过我们的优质老虎机系列旋转卷轴并赢取巨额大奖。",
+				"link": "前往老虎机"
 			},
 			"sports": {
-				"title": "Thể thao",
-				"badge": "3 TRÒ CHƠI",
-				"desc": "Đặt cược vào các đội và sự kiện thể thao yêu thích của bạn với tỷ lệ cược cạnh tranh.",
-				"link": "Đến Thể thao"
+				"title": "体育",
+				"badge": "3 游戏",
+				"desc": "以具有竞争力的赔率投注您最喜欢的球队和体育赛事。",
+				"link": "前往体育"
 			},
 			"crypto": {
-				"title": "Crypto & Kiếm tiền",
+				"title": "加密 & 赚币",
 				"badge": "60% APR",
-				"desc": "Đặt cược, giao dịch và kiếm tiền với tiền điện tử với mức lãi suất hấp dẫn.",
-				"link": "Đến Crypto"
+				"desc": "以诱人的利率质押、交易和赚取加密货币。",
+				"link": "前往加密"
 			}
 		},
 		"layout3": {
-			"headerTitle": "Tiêu điểm Trò chơi",
-			"headerSubtitle": "Khám phá các trò chơi tuyệt vời và khám phá những cuộc phiêu lưu mới trong bộ sưu tập được tuyển chọn của chúng tôi",
-			"slider1Title": "Trò chơi nổi bật",
-			"slider1Badge": "Nhân viên chọn",
-			"slider2Title": "Khám phá thêm",
-			"slider2Badge": "Thịnh hành",
-			"featuredGameLabel": "Trò chơi nổi bật"
+			"headerTitle": "游戏聚焦",
+			"headerSubtitle": "在我们精选的合集中发现精彩游戏并探索新冒险",
+			"slider1Title": "精选游戏",
+			"slider1Badge": "编辑推荐",
+			"slider2Title": "更多探索",
+			"slider2Badge": "热门",
+			"featuredGameLabel": "特色游戏"
 		},
-		"ctaExploreGames": "Khám phá Trò chơi",
-		"ctaJoinAffiliate": "Tham gia Đại lý"
+		"ctaExploreGames": "连接钱包",
+		"ctaJoinAffiliate": "立即游戏"
 	},
 	"betting": {
 		"live": {

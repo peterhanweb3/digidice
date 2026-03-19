@@ -1157,39 +1157,39 @@
 	},
 	"hero": {
 		"guest": {
-			"title": "Doe mee aan de actie",
-			"subtitle": "Meld u nu aan en ontvang een exclusieve welkomstbonus!",
-			"cta": "Registreer nu"
+			"title": "Speel direct in het crypto casino",
+			"subtitle": "Verbind je wallet en begin binnen seconden met spelen.\nDirecte uitbetalingen. Aantoonbaar eerlijk.!",
+			"cta": "Registreer Nu"
 		},
 		"welcome": {
 			"title1": "Welkomstbonus",
 			"title2": "Tot 590%",
 			"subtitle": "+ 225 Gratis Spins",
-			"cta": "Stort & Krijg"
+			"cta": "Storten & Krijgen"
 		},
 		"jackpot": {
 			"title1": "Mega Jackpot",
-			"title2": "$1.000.000",
-			"subtitle": "Speel nu & Win groots",
-			"cta": "Nu spelen"
+			"title2": "$1,000,000",
+			"subtitle": "Speel Nu & Win Groots",
+			"cta": "Speel Nu"
 		},
 		"cards": {
 			"casino": {
 				"title": "Casino",
 				"badge": "590+ SPELLEN",
-				"desc": "Geniet van {siteName} Originals en andere casinospellen van topproviders.",
+				"desc": "Geniet van {siteName} Originals en andere casinospellen van top providers.",
 				"link": "Ga naar Casino"
 			},
 			"slots": {
-				"title": "Gokkasten",
+				"title": "Slots",
 				"badge": "5292 SPELLEN",
-				"desc": "Draai de rollen en win enorme jackpots met onze premium gokkastcollectie.",
-				"link": "Ga naar Gokkasten"
+				"desc": "Spin de rollen en raak enorme jackpots met onze premium slotcollectie.",
+				"link": "Ga naar Slots"
 			},
 			"sports": {
 				"title": "Sport",
 				"badge": "3 SPELLEN",
-				"desc": "Wed op uw favoriete teams en sportevenementen met competitieve odds.",
+				"desc": "Wed op je favoriete teams en sportevenementen met competitieve odds.",
 				"link": "Ga naar Sport"
 			},
 			"crypto": {
@@ -1200,16 +1200,16 @@
 			}
 		},
 		"layout3": {
-			"headerTitle": "Spel in de schijnwerpers",
+			"headerTitle": "Spel in de Schijnwerpers",
 			"headerSubtitle": "Ontdek geweldige spellen en verken nieuwe avonturen in onze samengestelde collectie",
-			"slider1Title": "Uitgelichte spellen",
-			"slider1Badge": "Keuze van het personeel",
-			"slider2Title": "Meer om te verkennen",
+			"slider1Title": "Uitgelichte Spellen",
+			"slider1Badge": "Staff Picks",
+			"slider2Title": "Meer te Verkennen",
 			"slider2Badge": "Trending",
-			"featuredGameLabel": "Uitgelicht spel"
+			"featuredGameLabel": "Uitgelicht Spel"
 		},
-		"ctaExploreGames": "Verken spellen",
-		"ctaJoinAffiliate": "Word Affiliate"
+		"ctaExploreGames": "Wallet verbinden",
+		"ctaJoinAffiliate": "Speel nu"
 	},
 	"betting": {
 		"live": {

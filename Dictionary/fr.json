@@ -1156,61 +1156,61 @@
     }
   },
   "hero": {
-    "guest": {
-      "title": "Rejoignez l'action",
-      "subtitle": "Inscrivez-vous maintenant et obtenez un bonus de bienvenue exclusif !",
-      "cta": "S'inscrire maintenant"
-    },
-    "welcome": {
-      "title1": "Bonus de bienvenue",
-      "title2": "Jusqu'à 590 %",
-      "subtitle": "+ 225 tours gratuits",
-      "cta": "Déposez et obtenez"
-    },
-    "jackpot": {
-      "title1": "Mega Jackpot",
-      "title2": "1 000 000 $",
-      "subtitle": "Jouez maintenant et gagnez gros",
-      "cta": "Jouer maintenant"
-    },
-    "cards": {
-      "casino": {
-        "title": "Casino",
-        "badge": "590+ JEUX",
-        "desc": "Profitez des jeux originaux de {siteName} et d'autres jeux de casino des meilleurs fournisseurs.",
-        "link": "Aller au Casino"
-      },
-      "slots": {
-        "title": "Machines à sous",
-        "badge": "5292 JEUX",
-        "desc": "Faites tourner les rouleaux et remportez des jackpots massifs avec notre collection de machines à sous premium.",
-        "link": "Aller aux machines à sous"
-      },
-      "sports": {
-        "title": "Sports",
-        "badge": "3 JEUX",
-        "desc": "Pariez sur vos équipes et événements sportifs préférés avec des cotes compétitives.",
-        "link": "Aller aux sports"
-      },
-      "crypto": {
-        "title": "Crypto et gains",
-        "badge": "60 % d'APR",
-        "desc": "Misez, échangez et gagnez avec des cryptomonnaies à des taux attractifs.",
-        "link": "Aller à la crypto"
-      }
-    },
-    "layout3": {
-      "headerTitle": "Jeu à l'honneur",
-      "headerSubtitle": "Découvrez des jeux incroyables et explorez de nouvelles aventures dans notre collection soigneusement sélectionnée",
-      "slider1Title": "Jeux en vedette",
-      "slider1Badge": "Choix de l'équipe",
-      "slider2Title": "Plus à explorer",
-      "slider2Badge": "Tendances",
-      "featuredGameLabel": "Jeu en vedette"
-    },
-    "ctaExploreGames": "Explorer les jeux",
-    "ctaJoinAffiliate": "Rejoindre l'affiliation"
-  },
+		"guest": {
+			"title": "Jouez au casino crypto instantanément",
+			"subtitle": "Connectez votre portefeuille et commencez à jouer en quelques secondes.\nRetraits instantanés. Équité prouvée.",
+			"cta": "S'inscrire Maintenant"
+		},
+		"welcome": {
+			"title1": "Bonus de Bienvenue",
+			"title2": "Jusqu'à 590%",
+			"subtitle": "+ 225 Tours Gratuits",
+			"cta": "Déposer & Obtenir"
+		},
+		"jackpot": {
+			"title1": "Méga Jackpot",
+			"title2": "$1,000,000",
+			"subtitle": "Jouez Maintenant & Gagnez Gros",
+			"cta": "Jouer Maintenant"
+		},
+		"cards": {
+			"casino": {
+				"title": "Casino",
+				"badge": "590+ JEUX",
+				"desc": "Profitez des Originaux {siteName} et d'autres jeux de casino des meilleurs fournisseurs.",
+				"link": "Aller au Casino"
+			},
+			"slots": {
+				"title": "Machines à sous",
+				"badge": "5292 JEUX",
+				"desc": "Faites tourner les rouleaux et décrochez des jackpots massifs avec notre collection de machines à sous premium.",
+				"link": "Aller aux Machines à sous"
+			},
+			"sports": {
+				"title": "Sports",
+				"badge": "3 JEUX",
+				"desc": "Pariez sur vos équipes et événements sportifs préférés avec des cotes compétitives.",
+				"link": "Aller aux Sports"
+			},
+			"crypto": {
+				"title": "Crypto & Gagner",
+				"badge": "60% APR",
+				"desc": "Stakez, tradez et gagnez avec la cryptomonnaie à des taux attractifs.",
+				"link": "Aller à Crypto"
+			}
+		},
+		"layout3": {
+			"headerTitle": "Jeu en Vedette",
+			"headerSubtitle": "Découvrez des jeux incroyables et explorez de nouvelles aventures dans notre collection",
+			"slider1Title": "Jeux en Vedette",
+			"slider1Badge": "Choix de l'Équipe",
+			"slider2Title": "Plus à Explorer",
+			"slider2Badge": "Tendance",
+			"featuredGameLabel": "Jeu en Vedette"
+		},
+		"ctaExploreGames": "Connecter le portefeuille",
+		"ctaJoinAffiliate": "Jouer maintenant"
+	},
   "betting": {
     "live": {
       "winRate": "Taux de victoire",

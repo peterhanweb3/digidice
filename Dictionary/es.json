@@ -1157,34 +1157,34 @@
 	},
 	"hero": {
 		"guest": {
-			"title": "Únete a la acción",
-			"subtitle": "¡Regístrate ahora y obtén un bono de bienvenida exclusivo!",
-			"cta": "Regístrate ahora"
+			"title": "Juega al casino cripto al instante",
+			"subtitle": "Conecta tu billetera y comienza a jugar en segundos.\nRetiros instantáneos. Juego justo verificable.",
+			"cta": "Regístrate Ahora"
 		},
 		"welcome": {
-			"title1": "Bono de bienvenida",
+			"title1": "Bono de Bienvenida",
 			"title2": "Hasta 590%",
-			"subtitle": "+ 225 Giros gratis",
-			"cta": "Deposita y obtén"
+			"subtitle": "+ 225 Giros Gratis",
+			"cta": "Depositar y Obtener"
 		},
 		"jackpot": {
 			"title1": "Mega Jackpot",
 			"title2": "$1,000,000",
-			"subtitle": "Juega ahora y gana a lo grande",
-			"cta": "Jugar ahora"
+			"subtitle": "Juega Ahora y Gana a lo Grande",
+			"cta": "Jugar Ahora"
 		},
 		"cards": {
 			"casino": {
 				"title": "Casino",
-				"badge": "+590 JUEGOS",
-				"desc": "Disfruta de los juegos originales de {siteName} y otros juegos de casino de los mejores proveedores.",
+				"badge": "590+ JUEGOS",
+				"desc": "Disfruta de {siteName} Originals y otros juegos de casino de los mejores proveedores.",
 				"link": "Ir al Casino"
 			},
 			"slots": {
-				"title": "Tragamonedas",
+				"title": "Slots",
 				"badge": "5292 JUEGOS",
-				"desc": "Gira los rodillos y gana botes masivos con nuestra colección premium de tragamonedas.",
-				"link": "Ir a Tragamonedas"
+				"desc": "Gira los carretes y consigue premios masivos con nuestra colección premium de slots.",
+				"link": "Ir a Slots"
 			},
 			"sports": {
 				"title": "Deportes",
@@ -1193,23 +1193,23 @@
 				"link": "Ir a Deportes"
 			},
 			"crypto": {
-				"title": "Cripto y Gana",
-				"badge": "60% TAE",
-				"desc": "Invierte, opera y gana con criptomonedas a tasas atractivas.",
+				"title": "Cripto y Ganar",
+				"badge": "60% APR",
+				"desc": "Haz staking, comercia y gana con criptomonedas a tasas atractivas.",
 				"link": "Ir a Cripto"
 			}
 		},
 		"layout3": {
-			"headerTitle": "Juego destacado",
-			"headerSubtitle": "Descubre juegos increíbles y explora nuevas aventuras en nuestra colección seleccionada",
-			"slider1Title": "Juegos destacados",
-			"slider1Badge": "Selecciones del equipo",
-			"slider2Title": "Más para explorar",
-			"slider2Badge": "Tendencias",
-			"featuredGameLabel": "Juego destacado"
+			"headerTitle": "Juego Destacado",
+			"headerSubtitle": "Descubre juegos increíbles y explora nuevas aventuras en nuestra colección curada",
+			"slider1Title": "Juegos Destacados",
+			"slider1Badge": "Selección del Personal",
+			"slider2Title": "Más para Explorar",
+			"slider2Badge": "Tendencia",
+			"featuredGameLabel": "Juego Destacado"
 		},
-		"ctaExploreGames": "Explorar juegos",
-		"ctaJoinAffiliate": "Únete como afiliado"
+		"ctaExploreGames": "Conectar billetera",
+		"ctaJoinAffiliate": "Jugar ahora"
 	},
 	"betting": {
 		"live": {
